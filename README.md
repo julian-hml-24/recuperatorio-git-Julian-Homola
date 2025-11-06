@@ -5,3 +5,10 @@ Git.
 **Materia:** Electrónica digital 4
 **Tema:** Control de Versiones
 **Año:** 2025
+## Documentación
+### Requisitos
+- Python 3.x
+- Git instalado
+### Autor
+Nombre: Julian Homola
+Fecha: 6/11/25
